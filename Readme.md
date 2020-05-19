@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Артур Белов](https://up.htmlacademy.ru/htmlcss/28/user/1437395).
-* Наставник: [Сергей Зубов]( https://htmlacademy.ru/profile/serj).
+* Наставник: [Сергей Зубов](https://htmlacademy.ru/profile/serj).
 
 ---
 
